@@ -4,8 +4,8 @@ public static void main(String[] args) {
     gerente.adicionaFigura(t1);
 
 
-    Losango l1 = new Losango(5.5, 4.0);
-    Losango l2 = new Losango(4.5, 5.0);
+    Losango l1 = new Losango(4.0, 5.0);
+    Losango l2 = new Losango(3.0, 6.0);
     gerente.adicionaFigura(l1);
     gerente.adicionaFigura(l2);
 
